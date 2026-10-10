@@ -1,0 +1,20 @@
+{
+  "project": "Mini Compiler Verification Framework",
+  "compiler": "g++",
+  "seed": 2026,
+  "test_cases_per_build": 908,
+  "builds": [
+    {
+      "optimization": "-O0",
+      "passed": 908,
+      "failed": 0,
+      "failures": []
+    },
+    {
+      "optimization": "-O2",
+      "passed": 908,
+      "failed": 0,
+      "failures": []
+    }
+  ]
+}
